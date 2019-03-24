@@ -43,6 +43,8 @@
 - [Trajectories](<https://forum.kerbalspaceprogram.com/index.php?/topic/162324-151-131-trajectories-v221-2018-04-28-atmospheric-predictions/>) (Officially 1.5.1 , Work in 1.6.1)
   - [Github](https://github.com/neuoy/KSPTrajectories/releases)
   - [SpaceDock](http://spacedock.info/mod/396/Trajectories)
+- [Hangar Grid: Zero deviation](<https://forum.kerbalspaceprogram.com/index.php?/topic/132775-121-140-15x-hangar-grid-zero-deviation-v040-2016-oct-12/&>) (Officially 1.5.X , Work in 1.6.1)
+  - [SpaceDock](http://spacedock.info/mod/244/Hangar%20Grid)
 
 ---
 
@@ -67,6 +69,8 @@ As the name suggests.
 - [SSTULabs](<https://forum.kerbalspaceprogram.com/index.php?/topic/117090-sstulabs-low-part-count-solutions-orbiter-landers-lifters-dev-thread-01-30-16/&page=1>) (1.6.X)
   - [CruseForge]([http://www.curse.com/ksp-mods/kerbal/241283-sstu-shadow-space-technologies-unlimited](https://www.curse.com/ksp-mods/kerbal/241283-sstu-shadow-space-technologies-unlimited))
   - [Github](<https://github.com/shadowmage45/SSTULabs/releases>)
+- [Interstellar Fuel Switch](<https://forum.kerbalspaceprogram.com/index.php?/topic/106243-161151145131-interstellar-fuel-switch-ifs-3618/>) (1.6.X)
+  - [Cruse Forge](https://kerbal.curseforge.com/projects/interstellar-fuel-switch/files/2666535/download)
 
 
 
