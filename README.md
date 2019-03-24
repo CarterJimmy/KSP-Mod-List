@@ -1,6 +1,6 @@
 # KSP Mods List 
 
- [![](https://img.shields.io/badge/KSP-blue.svg?style=flat-square)](<https://www.kerbalspaceprogram.com/>)  [![](https://img.shields.io/badge/KSP Forum-green.svg?style=flat-square)](https://forum.kerbalspaceprogram.com/) [![](https://img.shields.io/badge/Blog-orange.svg?style=flat-square)](https://ca2te.com/) 
+ [![](https://img.shields.io/badge/KSP-blue.svg?style=flat-square)](<https://www.kerbalspaceprogram.com/>) [![](https://img.shields.io/badge/Blog-orange.svg?style=flat-square)](https://ca2te.com/) [![](https://img.shields.io/badge/KSP Forum-green.svg?style=flat-square)](<https://forum.kerbalspaceprogram.com/>)
 
 ---
 
