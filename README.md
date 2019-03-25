@@ -67,7 +67,7 @@ These mods can improve game realistic. However it could make the game harder to 
 As the name suggests.
 
 - [SSTULabs](<https://forum.kerbalspaceprogram.com/index.php?/topic/117090-sstulabs-low-part-count-solutions-orbiter-landers-lifters-dev-thread-01-30-16/&page=1>) (1.6.X)
-  - [CruseForge]([http://www.curse.com/ksp-mods/kerbal/241283-sstu-shadow-space-technologies-unlimited](https://www.curse.com/ksp-mods/kerbal/241283-sstu-shadow-space-technologies-unlimited))
+  - [CruseForge](https://www.curse.com/ksp-mods/kerbal/241283-sstu-shadow-space-technologies-unlimited) 
   - [Github](<https://github.com/shadowmage45/SSTULabs/releases>)
 - [Interstellar Fuel Switch](<https://forum.kerbalspaceprogram.com/index.php?/topic/106243-161151145131-interstellar-fuel-switch-ifs-3618/>) (1.6.X)
   - [Cruse Forge](https://kerbal.curseforge.com/projects/interstellar-fuel-switch/files/2666535/download)
@@ -90,6 +90,16 @@ As the name suggests.
   - [GitHub](https://github.com/TriggerAu/AlternateResourcePanel/releases)
   - [CurseForge](https://kerbal.curseforge.com/ksp-mods/220649-alternate-resource-panel)
   - [SpaceDock](http://spacedock.info/mod/763/Alternate%20Resource%20Panel)
+
+
+
+##### Other
+
+- [Kerbal Foundries](<https://forum.kerbalspaceprogram.com/index.php?/topic/155056-142-kerbal-foundries-continued-tracks-wheels-and-gear-04-10-18/>) (Include tracks, wheels and gear)(Pre-release for 1.6.1 is available)
+
+  - [Github](<https://github.com/shadowmage45/KerbalFoundries2/releases>)
+
+  
 
 ---
 
